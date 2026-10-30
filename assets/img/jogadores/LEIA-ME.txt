@@ -1,0 +1,102 @@
+COMO ADICIONAR FOTOS DOS JOGADORES
+=================================
+
+1. Guarda a foto nesta pasta (assets/img/jogadores/) com o nome indicado na lista em baixo.
+   Formatos aceites: .jpg, .jpeg, .png, .webp. Não é preciso mexer em código.
+2. Recomendado: foto quadrada ou de retrato, com o rosto no topo, mínimo 400x400 px, até 300 KB.
+3. Atualiza a página: a foto aparece sozinha. Sem foto, aparece o emblema do clube.
+
+NOTAS
+- Se o mesmo jogador estiver em duas equipas (ex.: Nuno Reguengo), a mesma foto serve para as duas.
+- Para usar uma foto diferente numa equipa, cria uma pasta com o nome da equipa e põe lá a foto,
+  por exemplo assets/img/jogadores/sub-19/gil-sousa.jpg (tem prioridade sobre a foto geral).
+  Pastas: seniores, sub-23, sub-19, sub-17, sub-15.
+- O nome do ficheiro é o nome do jogador em minúsculas, sem acentos e com hífens.
+
+LISTA DE FICHEIROS
+
+Seniores (seniores)
+  Rui Gonçalves                         -> rui-goncalves.jpg
+  Miguel Fonseca                         -> miguel-fonseca.jpg
+  Cláudio Oliveira                      -> claudio-oliveira.jpg
+  João Fonseca                          -> joao-fonseca.jpg
+  Chóias                                -> choias.jpg
+  Bruno Oliveira                         -> bruno-oliveira.jpg
+  Figo                                   -> figo.jpg
+  Tiago Sousa                            -> tiago-sousa.jpg
+  Nuno Reguengo                          -> nuno-reguengo.jpg
+  Marquinho                              -> marquinho.jpg
+  Rica                                   -> rica.jpg
+  João Matos                            -> joao-matos.jpg
+  Ricardo Oliveira                       -> ricardo-oliveira.jpg
+  Pedro Serra                            -> pedro-serra.jpg
+  Afonso Nunes                           -> afonso-nunes.jpg
+  Rodrigo Wang                           -> rodrigo-wang.jpg
+
+Equipa B / Sub-23 (sub-23)
+  Tiago Neuer                            -> tiago-neuer.jpg
+  Bruno Miranda                          -> bruno-miranda.jpg
+  Tiago Pimentel                         -> tiago-pimentel.jpg
+  Fabio Dias                             -> fabio-dias.jpg
+  Leandro Figueiredo                     -> leandro-figueiredo.jpg
+  Ivan Pinto                             -> ivan-pinto.jpg
+  Nuno Pereira                           -> nuno-pereira.jpg
+  Andre Santos                           -> andre-santos.jpg
+  Rui Soares                             -> rui-soares.jpg
+  Nuno Reguengo                          -> nuno-reguengo.jpg
+  Tiago Santos                           -> tiago-santos.jpg
+  Francisco Ferreira                     -> francisco-ferreira.jpg
+  Gabriel Santos                         -> gabriel-santos.jpg
+  Tiago Gomes                            -> tiago-gomes.jpg
+  Rogério Marinho                       -> rogerio-marinho.jpg
+  Pedro Ribeiro                          -> pedro-ribeiro.jpg
+  Tiago Cardoso                          -> tiago-cardoso.jpg
+  João Sousa                            -> joao-sousa.jpg
+  Afonso Nunes                           -> afonso-nunes.jpg
+  Tito                                   -> tito.jpg
+  Rodrigo Wang                           -> rodrigo-wang.jpg
+
+Sub-19 (sub-19)
+  Daniel Ribeiro                         -> daniel-ribeiro.jpg
+  Angelo Moreira                         -> angelo-moreira.jpg
+  Diogo Carvalho                         -> diogo-carvalho.jpg
+  Ricardo Matos                          -> ricardo-matos.jpg
+  Martim Peixoto                         -> martim-peixoto.jpg
+  Gil Sousa                              -> gil-sousa.jpg
+  Rodrigo Inácio                        -> rodrigo-inacio.jpg
+  Aadit Bhikhabhai                       -> aadit-bhikhabhai.jpg
+  Diogo Rodrigues                        -> diogo-rodrigues.jpg
+  Martim Gomes                           -> martim-gomes.jpg
+  Joao Lancos                            -> joao-lancos.jpg
+  Carlinhos                              -> carlinhos.jpg
+  Pedro Santos                           -> pedro-santos.jpg
+  Simão Pinto                           -> simao-pinto.jpg
+  Goncalo Miranda                        -> goncalo-miranda.jpg
+  Leonardo Pinheiro                      -> leonardo-pinheiro.jpg
+  Goncalo Crista                         -> goncalo-crista.jpg
+  Bubu                                   -> bubu.jpg
+
+Sub-17 (sub-17)
+  Santiago Remelgado                     -> santiago-remelgado.jpg
+  Manuel Beleza                          -> manuel-beleza.jpg
+  Francisco Conceição                  -> francisco-conceicao.jpg
+  Rodrigo Pinto                          -> rodrigo-pinto.jpg
+  Simão Moreira                         -> simao-moreira.jpg
+  Tiago Loureiro                         -> tiago-loureiro.jpg
+  Tomás Geraldes                        -> tomas-geraldes.jpg
+  Jose Pereira                           -> jose-pereira.jpg
+  Gustavo Ponte                          -> gustavo-ponte.jpg
+  Rodrigo Inácio                        -> rodrigo-inacio.jpg
+  Gil Sousa                              -> gil-sousa.jpg
+  Bruno Costa                            -> bruno-costa.jpg
+  Diego Bretes                           -> diego-bretes.jpg
+  Pedro Ferreira                         -> pedro-ferreira.jpg
+  Diogo Chaves                           -> diogo-chaves.jpg
+
+Sub-15 (sub-15)
+  Martim Pontes                          -> martim-pontes.jpg
+  Simão Jacinto                         -> simao-jacinto.jpg
+  Igor Coelho                            -> igor-coelho.jpg
+  Duarte Silva                           -> duarte-silva.jpg
+  Hugo Pereira                           -> hugo-pereira.jpg
+  Renato Felix                           -> renato-felix.jpg
